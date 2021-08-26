@@ -1,0 +1,17 @@
+{
+  "name": "testing-vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.2",
+    "postcss": "^8.3.6",
+    "rollup-plugin-zip": "^1.0.2",
+    "sass": "^1.38.1",
+    "tailwindcss": "^2.2.7",
+    "vite": "^2.5.1"
+  }
+}
